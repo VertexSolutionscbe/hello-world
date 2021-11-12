@@ -1,5 +1,3 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Vertex Solutions, Coimbatore </h2>
-<h2> Nazeer is the King of DevOps</h2>
-<h2>Nazeer is the best Devops Cloud Architect in the world</h2>
-<h3>Nazeer is the King of the Cloud Empire</h3>
+
+<h3>Nazeer is the master of cloud</h3>
